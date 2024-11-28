@@ -63,7 +63,7 @@ In this complete **Churn Analysis** project, we cover a range of topics includin
 - Improve data preprocessing and transformation techniques.
 
 ## Contact
-For any queries or suggestions, feel free to reach out to me via email at **[your email]** or connect with me on [LinkedIn](https://www.linkedin.com/in/abhijithaug).
+For any queries or suggestions, feel free to reach out to me via email at **abhijithaugustinem@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/abhijithaug).
 
 ---
 
